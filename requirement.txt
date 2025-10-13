@@ -1,0 +1,19 @@
+pandas
+numpy
+tensorflow 
+regex 
+matplotlib 
+seaborn 
+nltk 
+wordcloud 
+langchain_community 
+langchain 
+langchain_huggingface 
+transformers  
+sentence-transformers 
+openpyxl  
+langchain_chroma 
+accelerate 
+hf_xet 
+huggingface_hub
+jupyter ipywidgets
