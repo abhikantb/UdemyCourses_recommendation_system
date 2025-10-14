@@ -12,8 +12,9 @@ langchain_huggingface
 transformers  
 sentence-transformers 
 openpyxl  
-langchain_chroma 
-accelerate 
+langchain_chroma  
 hf_xet 
 huggingface_hub
 jupyter ipywidgets
+accelerate
+word2number
