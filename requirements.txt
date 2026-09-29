@@ -1,19 +1,18 @@
 pandas
-numpy
-tensorflow 
+numpy 
 regex 
 matplotlib 
 seaborn 
 nltk 
-wordcloud 
-langchain_community 
+wordcloud  
 langchain 
 langchain_huggingface 
 transformers  
 sentence-transformers 
 openpyxl  
 langchain_chroma 
-accelerate 
-hf_xet 
+accelerate  
 huggingface_hub
-jupyter ipywidgets
+ipywidgets
+ipykernel
+gradio
