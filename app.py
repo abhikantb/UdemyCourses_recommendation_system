@@ -37,4 +37,4 @@ with gr.Blocks(title="AI Course Recommender") as demo:
     reset_btn.click(fn=reset_all_filters,inputs=[], outputs=[user_query,is_paid,max_price,language,subcategory,duration,min_rating,sort_by,top_k])
 
 if __name__ == "__main__":
-    demo.launch()
+    demo.launch(inbrowser=True)
